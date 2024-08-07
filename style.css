@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+form{
+    background-color: rgb(112, 217, 136);
+    width: 500px;
+    border: 2px solid #ccc;
+    padding: 30px;
+    background: #fff;
+    border-radius: 15px;
+    text-decoration-color: rgb(225, 169, 101);
+}
+#btn{
+    background-color: rgb(164, 217, 230);
+    padding-left: 10px;
+    margin-left: 40vh;
+    border-radius: 20px flex;
+}
